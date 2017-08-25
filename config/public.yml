@@ -1,0 +1,5 @@
+default:
+  shortname: ncs_liberty
+  solr_core: ncs_liberty
+  tei_solr_xsl: projects/ncs_liberty/scripts/solr_transform_tei.xsl
+
